@@ -19,7 +19,7 @@ Linux Dekstop  : Download dari https://github.com/mattermost/focalboard/releases
 
 **3.	Personal Server**
 
-Download dan run compiled focalboard personal server atau Ubuntu melalui https://www.focalboard.com/download/personal-edip tion/ubuntu/
+Download dan run compiled focalboard personal server atau Ubuntu melalui https://www.focalboard.com/download/personal-edition/ubuntu/
 
 
 ##II.	Cara penggunaan focalboard
