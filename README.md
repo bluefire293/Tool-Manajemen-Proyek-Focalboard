@@ -14,7 +14,11 @@ Mattermost Boards mengkombinasikan tool manajemen proyek dengan message dan kola
 **2.	Personal Dekstop**
 
 Windows : Download dari Windows App Store atau  download di https://github.com/mattermost/focalboard/releases
+
+
 Mac : Download from the Mac App Store
+
+
 Linux Dekstop  : Download dari https://github.com/mattermost/focalboard/releases
 
 **3.	Personal Server**
